@@ -1,0 +1,44 @@
+Original Array:
+42 17 8 33 91 56 23 11 77 19 60 4 85 31 28 90 47 64 12 39 
+
+Dividing: 42 17 8 33 91 56 23 11 77 19 60 4 85 31 28 90 47 64 12 39 
+Dividing: 42 17 8 33 91 56 23 11 77 19 
+Dividing: 42 17 8 33 91 
+Dividing: 42 17 8 
+Dividing: 42 17 
+Clubbing: 17 42 
+Clubbing: 8 17 42 
+Dividing: 33 91 
+Clubbing: 33 91 
+Clubbing: 8 17 33 42 91 
+Dividing: 56 23 11 77 19 
+Dividing: 56 23 11 
+Dividing: 56 23 
+Clubbing: 23 56 
+Clubbing: 11 23 56 
+Dividing: 77 19 
+Clubbing: 19 77 
+Clubbing: 11 19 23 56 77 
+Clubbing: 8 11 17 19 23 33 42 56 77 91 
+Dividing: 60 4 85 31 28 90 47 64 12 39 
+Dividing: 60 4 85 31 28 
+Dividing: 60 4 85 
+Dividing: 60 4 
+Clubbing: 4 60 
+Clubbing: 4 60 85 
+Dividing: 31 28 
+Clubbing: 28 31 
+Clubbing: 4 28 31 60 85 
+Dividing: 90 47 64 12 39 
+Dividing: 90 47 64 
+Dividing: 90 47 
+Clubbing: 47 90 
+Clubbing: 47 64 90 
+Dividing: 12 39 
+Clubbing: 12 39 
+Clubbing: 12 39 47 64 90 
+Clubbing: 4 12 28 31 39 47 60 64 85 90 
+Clubbing: 4 8 11 12 17 19 23 28 31 33 39 42 47 56 60 64 77 85 90 91 
+
+Sorted Array:
+4 8 11 12 17 19 23 28 31 33 39 42 47 56 60 64 77 85 90 91 

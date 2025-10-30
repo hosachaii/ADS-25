@@ -1,0 +1,26 @@
+AVL Tree (sideways view):
+
+                    October
+
+          November
+
+                              May
+
+                    March
+
+                              June
+
+July
+
+                    January
+
+                              February
+
+          December
+
+                              August
+
+                    April
+
+Inorder Traversal (Sorted):
+April August December February January July June March May November October 

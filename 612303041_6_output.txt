@@ -1,0 +1,6 @@
+Min of h1: 4
+Min of h2: 67
+After unite, min: 4
+Extracted min: 4
+New min: 16
+Min after decrease: 1

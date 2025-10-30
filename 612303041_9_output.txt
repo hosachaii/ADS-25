@@ -1,0 +1,13 @@
+Enter a word prefix: 
+Suggestions:
+balance
+ball
+banana
+band
+bank
+bar
+base
+basic
+basis
+basket
+battle
